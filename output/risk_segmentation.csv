@@ -1,0 +1,11 @@
+classification,risk_level,daily_pnl
+Extreme Fear,high,8445.038315988506
+Extreme Fear,low,60.163219164383534
+Extreme Greed,high,6505.194438114391
+Extreme Greed,low,3734.367129192157
+Fear,high,9871.49034595681
+Fear,low,1172.7563754072949
+Greed,high,4312.582036353294
+Greed,low,2260.2766649968157
+Neutral,high,6403.719647340909
+Neutral,low,829.3300880900001
