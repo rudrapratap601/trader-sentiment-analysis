@@ -1,6 +1,6 @@
-# 📊 Trader Performance vs Market Sentiment — Write-up
+# Trader Performance vs Market Sentiment — Write-up
 
-## 🎯 Methodology
+## Methodology
 
 The analysis was conducted to understand how market sentiment influences trader behavior and performance.
 
@@ -30,7 +30,7 @@ The analysis was conducted to understand how market sentiment influences trader 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 1. **Performance vs Sentiment**
    - Trader performance varies significantly with market sentiment
@@ -57,7 +57,7 @@ The analysis was conducted to understand how market sentiment influences trader 
 
 ---
 
-## 🎯 Strategy Recommendations
+## Strategy Recommendations
 
 1. **Fear / Extreme Fear Markets**
    - Reduce overtrading and focus on high-conviction trades
@@ -76,7 +76,7 @@ The analysis was conducted to understand how market sentiment influences trader 
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 The analysis demonstrates that trader performance is influenced not only by market sentiment but also by behavioral factors such as risk-taking, trading frequency, and consistency.
 
