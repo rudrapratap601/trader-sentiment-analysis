@@ -9,9 +9,16 @@ The analysis focuses on identifying patterns in profitability, trading activity,
 ## 📂 Datasets Used
 1. **Bitcoin Market Sentiment Dataset**
    - Contains daily sentiment classification (Fear, Greed, etc.)
+   - Link: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 
 2. **Historical Trader Data (Hyperliquid)**
    - Trade-level data including PnL, trade size, direction, and timestamps and more
+   - Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+
+The datasets used in this project are not included in the repository due to size constraints.  
+Please refer to the original dataset links provided in the assignment.
 
 ---
 
